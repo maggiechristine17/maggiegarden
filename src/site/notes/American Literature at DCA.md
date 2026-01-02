@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T12:33:27.727-05:00","updated":"2026-01-02T12:36:34.748-05:00"}
+{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T12:33:27.727-05:00","updated":"2026-01-02T12:38:57.815-05:00"}
 ---
 
 .
@@ -12,8 +12,12 @@ Activity Options
 Daily Routine
 
 1. The LAW (20 min)
-
+	1. dff
+	2. ggg
 2. read a bit
+	- wkd
+	- ekldekdle
+	- ;
 3. do workbook questions
 4. review ch 1 and so on
 5. vocab for that review chapter
