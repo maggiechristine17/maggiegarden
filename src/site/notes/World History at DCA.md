@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history-at-dca/","noteIcon":"","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-01T19:21:15.350-05:00"}
+{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-01T19:28:06.101-05:00"}
 ---
 
 
@@ -23,3 +23,5 @@ Midterm Project - 2/ ,17,18,19,(24,25,26)
 Midterm Exam 2/24
 Final Project - 4/ 14, 15,16
 Final Exam - finals week
+
+![Screenshot 2025-12-28 at 7.03.37 PM.png](/img/user/Screenshot%202025-12-28%20at%207.03.37%20PM.png)
