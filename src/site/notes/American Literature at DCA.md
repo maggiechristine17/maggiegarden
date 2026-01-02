@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T12:33:27.727-05:00","updated":"2026-01-02T12:38:57.815-05:00"}
+{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T12:33:27.727-05:00","updated":"2026-01-02T12:42:19.879-05:00"}
 ---
 
 .
@@ -37,15 +37,10 @@ Daily Routine
 
 Category Grades
 
-cat 1
-
-Novel discussion questions
-
-  
-
-cat 2
-
-Novel Tests - 1 chapter per week
+- cat 1
+	- Novel discussion questions
+- cat 2
+	- Novel Tests - 1 chapter per week
 
 LAW activities
 
