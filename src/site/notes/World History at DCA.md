@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-01T19:43:08.804-05:00"}
+{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-01T20:04:42.006-05:00"}
 ---
 
 
@@ -24,7 +24,6 @@ Midterm Exam 2/24
 Final Project - 4/ 14, 15,16
 Final Exam - finals week
 
-![Screenshot 2025-12-28 at 7.03.37 PM.png](/img/user/Screenshot%202025-12-28%20at%207.03.37%20PM.png)
 
 
-<iframe src="/img/user/lobel-frog-toad%201.pdf" width="100%" height="900px" title="lobel-frog-toad 1.pdf" style="border:1px solid #ccc;"></iframe>
+

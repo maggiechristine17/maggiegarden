@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-12-31T19:06:43.958-05:00","updated":"2026-01-01T16:23:12.585-05:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2025-12-31T19:06:43.958-05:00","updated":"2026-01-02T12:30:33.134-05:00"}
 ---
 
 
-[[World History at DCA\|World History at DCA]]
+[[World History at DCA\|World History at DCA]]. [[American Literature at DCA\|American Literature at DCA]]. [[7th LA at DCA\|7th LA at DCA]]. [[Personal Finance at DCA\|Personal Finance at DCA]].
