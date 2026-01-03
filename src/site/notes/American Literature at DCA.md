@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T12:33:27.727-05:00","updated":"2026-01-02T13:09:05.725-05:00"}
+{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T12:33:27.727-05:00","updated":"2026-01-02T15:44:35.345-05:00"}
 ---
 
 
 Daily Routine
-  - The Lovely Art of Writing (The LAW)
+  - The Lively Art of Writing (The LAW)
 	  - Read aloud new chapter/section & Answer The LAW Workbook corresponding questions
 	  - or, review chapter & do vocab - students glance at workbook, then close book, draw sticks for responses. - dictionaries and thesaurus. 
 	  - Activity: Prepare for Midterm and Final Exam.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7th-la-at-dca/","created":"2026-01-02T13:09:13.153-05:00","updated":"2026-01-02T14:47:24.051-05:00"}
+{"dg-publish":true,"permalink":"/7th-la-at-dca/","created":"2026-01-02T13:09:13.153-05:00","updated":"2026-01-03T09:35:26.521-05:00"}
 ---
 
 
@@ -35,12 +35,16 @@ Week B
 	- TGTB
 	- Read
 
+Cat 3 - IEW Mid and F, TGTB Mid and F, (Prince Caspian Test)
+Cat 2 - IEW writings, (Prince Caspian Test)
+Cat 1 - 2 reading logs, TGTB quizzes
+
+
 To do:
-- [ ] Blake plan. tell mom.
-- [ ] all cat grades
-- [ ] dates for grades (range)
 - [ ] rubrics for grades
-- [ ] instruction for grades
-- [ ] fk it and do novel instead
+- [ ] TGTB Lessons & skills list
 
 
+Maybe to do:
+- [ ] blake, mom
+- [ ] 
