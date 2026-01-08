@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/7th-la-at-dca/","created":"2026-01-02T13:09:13.153-05:00","updated":"2026-01-03T09:35:26.521-05:00"}
+{"dg-publish":true,"permalink":"/7th-la-at-dca/","created":"2026-01-02T13:09:13.153-05:00","updated":"2026-01-04T19:38:23.577-05:00"}
 ---
+
+[[IEW\|IEW]]
+[[TGTB\|TGTB]]
+
 
 
 Week A

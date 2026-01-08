@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-01T20:04:42.006-05:00"}
+{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-08T13:39:45.769-05:00"}
 ---
 
 
+- [ ] y
+- [x] k
+- [ ] m
 
 Tuesdays
 - Peer grade Cat 1 MC from last week.
