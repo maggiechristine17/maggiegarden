@@ -1,11 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-08T13:39:45.769-05:00"}
+{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-09T11:12:42.982-05:00"}
 ---
 
 
-- [ ] y
-- [x] k
-- [ ] m
+
+
+This is the text I want to sync across notes.
+{ #sharedtext}
+
+
+!
+
 
 Tuesdays
 - Peer grade Cat 1 MC from last week.
@@ -26,6 +31,8 @@ Midterm Project - 2/ ,17,18,19,(24,25,26)
 Midterm Exam 2/24
 Final Project - 4/ 14, 15,16
 Final Exam - finals week
+{ #9d76c7}
+
 
 
 
