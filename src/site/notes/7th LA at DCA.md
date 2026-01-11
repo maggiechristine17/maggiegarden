@@ -1,48 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/7th-la-at-dca/","created":"2026-01-02T13:09:13.153-05:00","updated":"2026-01-11T10:17:00.022-05:00"}
+{"dg-publish":true,"permalink":"/7th-la-at-dca/","created":"2026-01-02T13:09:13.153-05:00","updated":"2026-01-11T11:07:04.659-05:00"}
 ---
 
 [[IEW\|IEW]]
 [[TGTB\|TGTB]]
 
-https://maggiechristine.notion.site/famchat
-<iframe src="https://maggiechristine.notion.site/famchat"width=100% height=650></iframe>
+  
+Week A:
 
+Sentence Dictation (5 min)
 
-<iframe src="https://maggiechristine.notion.site/ebd//2b0f4689d8e180d5bef8fb6dcfee5729" width="100%" height="600" frameborder="0" allowfullscreen />
+IEW (Tues - Day 1, Wed - Day 2, Thurs - Day 3, Weekend Homework - Day 4) (25 minutes)
 
+The Good & The B - Quick Review or Quiz (5 min)
 
-Week A
-- Tuesday
-	- IEW - Day 1
-	- TGTB - fun
-	- Read
+Classical Novel Read-aloud and discussion (15 min)
 
-- Wednesday
-	- IEW - Day 2
-	- TGTB - fun
-	- Read
+  
 
-- Tuesday
-	- IEW - Day 3,4
-	- TGTB - fun
-	- Read
+Week B:
 
-Week B
-- Tuesday
-	- IEW - Read papers, grade
-	- TGTB
-	- Read
+Sentence Dictation (5 min)
 
-- Wednesday
-	- IEW - Read papers, grade
-	- TGTB
-	- Read
+IEW (Teacher & Peer Review, Revise, Turn in revised copy the following Tuesday for teaching grading) (10-15 min)
 
-- Tuesday
-	- IEW - fun write
-	- TGTB
-	- Read
+The Good & The B Lesson (10-15 min)
+
+Classical Novel Read-aloud and discussion (15 min)
+
+  
+
+Week A and B alternate.
+
+Additionally, students have a reading log. They are expected to read 20 minutes a day, most days. Classical books preferred. Book report as teacher sees fit.
+
+---
 
 Cat 3 - IEW Mid and F, TGTB Mid and F, (Prince Caspian Test)
 Cat 2 - IEW writings, (Prince Caspian Test)
