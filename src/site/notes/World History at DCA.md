@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-01T15:37:51.542-05:00","updated":"2026-01-09T11:12:42.982-05:00"}
+{"dg-publish":true,"permalink":"/world-history-at-dca/","created":"2026-01-09T11:12:42.000-05:00","updated":"2026-01-09T11:12:42.982-05:00"}
 ---
 
 

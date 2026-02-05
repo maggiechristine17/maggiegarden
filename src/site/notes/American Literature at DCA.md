@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T12:33:27.727-05:00","updated":"2026-01-02T15:44:35.345-05:00"}
+{"dg-publish":true,"permalink":"/american-literature-at-dca/","created":"2026-01-02T15:44:35.000-05:00","updated":"2026-01-02T15:44:35.345-05:00"}
 ---
 
 
