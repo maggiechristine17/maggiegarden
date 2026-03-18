@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ny-march/","created":"2026-03-10T13:25:46.107-04:00","updated":"2026-03-18T16:19:26.200-04:00"}
+{"dg-publish":true,"permalink":"/ny-march/","created":"2026-03-10T13:25:46.107-04:00","updated":"2026-03-18T16:20:16.076-04:00"}
 ---
 
 
@@ -12,4 +12,5 @@
 
 
 
-Hotel: https://www.marriott.com/en-us/hotels/nycsg-renaissance-new-york-midtown-hotel/overview/
+[Hotel](https://www.marriott.com/en-us/hotels/nycsg-renaissance-new-york-midtown-hotel/overview/)
+
