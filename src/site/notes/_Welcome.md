@@ -4,5 +4,5 @@
 
 1234
 
-[[__Dashboard/0. Tracker\|0. Tracker]]
-[[__Dashboard/Routines\|Routines]]
+[[_1/0. Tracker\|0. Tracker]]
+[[_1/Routines\|Routines]]
