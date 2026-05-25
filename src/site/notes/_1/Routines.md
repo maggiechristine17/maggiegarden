@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1/routines/","tags":["dash"],"created":"2026-05-19T19:13:49.170-04:00","updated":"2026-05-24T15:42:22.953-04:00"}
+{"dg-publish":true,"permalink":"/1/routines/","tags":["dash"],"created":"2026-05-19T19:13:49.170-04:00","updated":"2026-05-25T11:53:31.629-04:00"}
 ---
 
 
@@ -14,6 +14,7 @@
 | Evening   |                                                          |
 |           | Laundry                                                  |
 |           | Meal Prep                                                |
+|           | Flip the Water                                           |
 |           | Wash Hair                                                |
 |           | old notes, folders - 30 timer                            |
 | Weekly    |                                                          |
