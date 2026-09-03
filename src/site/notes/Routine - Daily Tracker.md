@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/routine-daily-tracker/","created":"2026-09-03T12:15:47.398-04:00","updated":"2026-09-03T12:23:55.588-04:00"}
+{"dg-publish":true,"permalink":"/routine-daily-tracker/","tags":["PinkArea"],"created":"2026-09-03T12:15:47.398-04:00","updated":"2026-09-03T12:48:38.520-04:00"}
 ---
 
 

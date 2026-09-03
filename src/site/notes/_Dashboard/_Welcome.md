@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-03T12:37:29.732-04:00"}
+{"dg-publish":true,"permalink":"/dashboard/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-03T12:51:36.761-04:00"}
 ---
 
 
@@ -15,8 +15,12 @@
 [[Custody Case\|Custody Case]]. 
 
 ### Later
-
+[[ETATL\|ETATL]]
 ### Optional
+[[Sapiens\|Sapiens]]
 
 ### 2026 Notes
 [[2026 Notes/Joe Declares Bankruptcy\|Joe Declares Bankruptcy]].
+
+### Tags
+#PinkArea #OrangeArea #GreenArea #PurpleArea #YellowArea
