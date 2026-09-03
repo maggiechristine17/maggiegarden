@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-03T12:54:39.745-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-03T12:56:41.972-04:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 
 ### Now
 [[Labor Day 2026\|Labor Day 2026]]
+[[LifeOS User Manual - Complete it\|LifeOS User Manual - Complete it]]
 
 ### Soon 
 [[Custody Case\|Custody Case]]. 
