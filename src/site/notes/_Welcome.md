@@ -19,4 +19,4 @@
 ### Optional
 
 ### 2026 Notes
-[[Joe Declares Bankruptcy\|Joe Declares Bankruptcy]].
+[[2026 Notes/Joe Declares Bankruptcy\|Joe Declares Bankruptcy]].
