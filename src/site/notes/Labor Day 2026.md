@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/custody-case/","created":"2026-09-03T11:11:02.487-04:00","updated":"2026-09-03T11:34:28.910-04:00"}
+{"dg-publish":true,"permalink":"/labor-day-2026/","created":"2026-09-03T11:34:38.464-04:00","updated":"2026-09-03T11:34:38.465-04:00"}
 ---
 
 
