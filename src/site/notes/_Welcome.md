@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-05T11:55:49.566-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-05T12:15:42.509-04:00"}
 ---
 
 ### Routines
-
 - [ ] [[Daily Tracker\|Daily Tracker]]
+
 - [ ] [[Morning Time\|Morning Time]]
 - [ ] [[Closing Time\|Closing Time]]
 
@@ -22,6 +22,7 @@ Projects
 
 ### Later
 [[1. Projects/Egg Donor\|Egg Donor]]
+
 [[ETATL\|ETATL]]
 
 ### Optional
