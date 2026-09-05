@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-05T11:34:01.467-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-05T11:50:05.711-04:00"}
 ---
 
 ### Routines
 
 - [ ] [[Daily Tracker\|Daily Tracker]]
-- [ ] [[Routine 1. Project Plan\|Routine 1. Project Plan]]
+- [ ] [[Morning Time\|Morning Time]]
+- [ ] [[Closing Time\|Closing Time]]
 
 ---
 Projects
@@ -16,7 +17,7 @@ Projects
 ### Soon 
 [[Custody Case\|Custody Case]]. 
 [[TTL Branding\|TTL Branding]]
-[[Sell Joe's House\|Sell Joe's House]]
+[[Chevy Circumstances\|Chevy Circumstances]]
 ### Later
 [[ETATL\|ETATL]]
 [[Maggie's Tutoring\|Maggie's Tutoring]]
@@ -24,10 +25,24 @@ Projects
 [[Sapiens\|Sapiens]]
 
 ---
+### Tags
+#PinkArea #OrangeArea #GreenArea #BlueArea #YellowArea
+
+---
 Notes
 ### 2026 Notes
 [[2026 Notes/Joe Declares Bankruptcy\|Joe Declares Bankruptcy]].
 
 ---
-### Tags
-#PinkArea #OrangeArea #GreenArea #PurpleArea #YellowArea
+Areas
+
+### Pink Areas
+
+### Orange Areas
+
+### Green Areas
+
+### Blue Areas
+
+### Yellow Areas
+
