@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-03T13:00:06.110-04:00"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-09-05T11:34:01.467-04:00"}
 ---
 
----
-### Daily Routines
-[[Routine - Daily Tracker\|Routine - Daily Tracker]]
-### Weekly Routines
-[[Routine - Project Plan\|Routine - Project Plan]]
+### Routines
+
+- [ ] [[Daily Tracker\|Daily Tracker]]
+- [ ] [[Routine 1. Project Plan\|Routine 1. Project Plan]]
 
 ---
 Projects
@@ -30,6 +29,5 @@ Notes
 [[2026 Notes/Joe Declares Bankruptcy\|Joe Declares Bankruptcy]].
 
 ---
-
 ### Tags
 #PinkArea #OrangeArea #GreenArea #PurpleArea #YellowArea
