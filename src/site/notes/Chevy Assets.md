@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/chevy-assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T11:44:28.334-04:00"}
+{"dg-publish":true,"permalink":"/chevy-assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T11:48:29.459-04:00"}
 ---
 
 
 # Clean Dacula House
+
+| Date | Task | Status |
+| ---- | ---- | ------ |
+|      |      |        |
+
 
 # Sell Dacula House
 
