@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chevy-assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T11:48:29.459-04:00"}
+{"dg-publish":true,"permalink":"/chevy-assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T12:50:14.764-04:00"}
 ---
 
 
@@ -11,6 +11,8 @@
 
 
 # Sell Dacula House
+
+[[Dacula Home - Market Research\|Dacula Home - Market Research]]
 
 # Sell / Remove Assets
 
