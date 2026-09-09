@@ -1,18 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/chevy-assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T16:30:22.189-04:00"}
+{"dg-publish":true,"permalink":"/chevy-assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T17:59:57.283-04:00"}
 ---
 
 
-# Clean Dacula House
+# Clean / Stage Dacula House
+
+| Date | Task                                             | Status |
+| ---- | ------------------------------------------------ | ------ |
+|      | Make list of Move-out detailing / cleaning needs |        |
+|      | Compare quotes 1. Thumbtack                      |        |
+|      | AI - research best practices                     |        |
+|      | Hire and Schedule - should I be there?           |        |
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
+# Sell Dacula House
+
+| Resources                                                                                                    |     |
+| ------------------------------------------------------------------------------------------------------------ | --- |
+| [Realtor](https://www.realtor.com/realestateandhomes-detail/2874-Misty-Rock-Cv_Dacula_GA_30019_M55640-54651) |     |
 
 | Date | Task | Status |
 | ---- | ---- | ------ |
 |      |      |        |
 
-
-# Sell Dacula House
-
-[[Dacula Home - Research\|Dacula Home - Research]]
 
 # Sell / Remove Assets
 
