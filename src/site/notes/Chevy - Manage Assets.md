@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chevy-manage-assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T17:59:57.283-04:00"}
+{"dg-publish":true,"permalink":"/Chevy - Manage Assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T17:59:57.283-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/spongebob-coloring-pages/","created":"2026-09-06T20:47:20.943-04:00","updated":"2026-09-08T08:07:06.557-04:00"}
+{"dg-publish":true,"permalink":"/Resources/Spongebob Coloring Pages/","created":"2026-09-06T20:47:20.943-04:00","updated":"2026-09-08T08:07:06.557-04:00"}
 ---
 
 <iframe src="/img/user/Resources/Happy-SpongeBob-Coloring-Page.pdf" width="100%" height="900px" title="Happy-SpongeBob-Coloring-Page.pdf" style="border:1px solid #ccc;"></iframe>
