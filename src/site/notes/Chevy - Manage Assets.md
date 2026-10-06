@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Chevy - Manage Assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-08T17:59:57.283-04:00"}
+{"dg-publish":true,"permalink":"/Chevy - Manage Assets/","created":"2026-09-08T10:59:04.814-04:00","updated":"2026-09-29T18:03:12.295-04:00"}
 ---
 
 
@@ -41,4 +41,5 @@
 | Date | Task                                                                                                                                                                                  | Status |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 |      | Tell J: I view the Dacula storage unit as a short-term response to the pressure cooker; we needed to get things moving, and this was the quickest way to get things out of the house. |        |
+|      | simple interest of 6% paid monthly on the principal                                                                                                                                   |        |
 
