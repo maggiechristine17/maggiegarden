@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/_Welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-10-06T11:59:41.469-04:00"}
+{"dg-publish":true,"permalink":"/_Welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-10-06T11:59:44.029-04:00"}
 ---
 
 
-# Projects: 
+# Projects: Top-of-Mind 
 
 [[Projects/Plan Fall Trips 2026\|Plan Fall Trips 2026]] 
 
@@ -20,6 +20,6 @@
 | [[Areas/The Tutor Lyfe, LLC.\|The Tutor Lyfe, LLC.]]          | 1. Organic ads, online<br>2. Organic ads, local<br>3. Paid ads<br>4. Get Joe booked for office hours 3:00-6:00 PM Monday-Wednesday |        |
 | [[Areas/Our Close Circle\|Our Close Circle]]              |                                                                                                                                    |        |
 | [[Areas/Community Connections\|Community Connections]]         |                                                                                                                                    |        |
-| [[ETA\|ETA]]                           |                                                                                                                                    |        |
-| [[Finances\|Finances]]                      |                                                                                                                                    |        |
+| [[Areas/ETA\|ETA]]                           |                                                                                                                                    |        |
+| [[Areas/Finances\|Finances]]                      |                                                                                                                                    |        |
 
