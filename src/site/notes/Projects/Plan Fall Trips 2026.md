@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/Projects/Plan Fall Trips 2026/","tags":["OrangeArea"],"created":"2026-09-03T11:34:38.464-04:00","updated":"2026-10-06T11:25:20.231-04:00"}
+---
+
+
+# Fall Break Itinerary
+
+| Date        | Activity |
+| ----------- | -------- |
+| Fri 10-9    |          |
+| Sat 10-10   |          |
+| Sun 10-11   |          |
+| Mon 10-12   |          |
+| Tues 10-13  |          |
+| Wed 10-14   |          |
+| Thurs 10-15 |          |
+| Fri 10-16   |          |
+| Sat 10-17   |          |
+| Sun 10-18   |          |
+
+## Activity Options
+
+| Location | Activity | Notes | Links |
+| -------- | -------- | ----- | ----- |
+|          |          |       |       |
+
+# Other Dates to Keep in Mind
+
+# Thanksgiving Break - No Felicity
+
+# Christmas Break - Felicity
+
+# New Years Eve - No Felicity
