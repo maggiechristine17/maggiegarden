@@ -12,7 +12,7 @@
 | Area                              | Projects                                                                                                                           | Status |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [[Areas/Deep Work\|Deep Work]]                     |                                                                                                                                    |        |
-| [[Areas/Things to Do, Places to Visit\|Things to Do, Places to Visit]] | 1. Plan Fall Break                                                                                                                 |        |
+| [[Things to Do, Places to Visit\|Things to Do, Places to Visit]] | 1. Plan Fall Break                                                                                                                 |        |
 |                                   | [[Projects/Plan Fall Trips 2026\|Plan Fall Trips 2026]]                                                                                                           |        |
 | [[Areas/Fitness & Exercise\|Fitness & Exercise]]            | 1. Cancel OneLife?<br>2. Find another gym?<br>3. Find Yoga group?                                                                  |        |
 | [[Areas/Physical Assets\|Physical Assets]]               | 1. last fixes for Dacula home<br>2. list Dacula home<br>3. Decide which assets to sell<br>4. cut back on storage unit?             |        |
