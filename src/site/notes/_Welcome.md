@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_Welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-10-06T12:11:18.116-04:00"}
+{"dg-publish":true,"permalink":"/_Welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-10-06T12:11:30.567-04:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 | [[Areas/Nutrition\|Nutrition]]             | 1. Keto diet (or close enough)                                                                                                     |        |
 | [[Areas/The Tutor Lyfe, LLC.\|The Tutor Lyfe, LLC.]]  | 1. Organic ads, online<br>2. Organic ads, local<br>3. Paid ads<br>4. Get Joe booked for office hours 3:00-6:00 PM Monday-Wednesday |        |
 | [[Areas/Our Close Circle\|Our Close Circle]]      |                                                                                                                                    |        |
-| [[Areas/Community Connections\|Community Connections]] |                                                                                                                                    |        |
+| [[Areas/Community\|Community]] |                                                                                                                                    |        |
 | [[Areas/ETA\|ETA]]                   |                                                                                                                                    |        |
 | [[Areas/Finances\|Finances]]              |                                                                                                                                    |        |
 
