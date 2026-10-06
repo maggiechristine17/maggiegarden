@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/_Welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-10-06T11:58:47.803-04:00"}
+{"dg-publish":true,"permalink":"/_Welcome/","tags":["gardenEntry"],"created":"2026-01-02T12:30:33.000-05:00","updated":"2026-10-06T11:59:41.469-04:00"}
 ---
 
 
-# Top-of-Mind Projects
+# Projects: 
 
 [[Projects/Plan Fall Trips 2026\|Plan Fall Trips 2026]] 
 
